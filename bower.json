@@ -1,0 +1,11 @@
+{
+  "name": "projects",
+  "private": true,
+  "dependencies": {
+    "threejs": "r73"
+  },
+  "devDependencies": {
+    "chai": "~3.4.0",
+    "mocha": "~2.3.3"
+  }
+}
