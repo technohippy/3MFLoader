@@ -1,6 +1,13 @@
 3MF Loader for three.js
 =======================
 
+In Progress
+-----------
+
+- 3MF Materials and Properties Extension
+  - Vertex colors
+  - Texture
+
 See
 ----
 
